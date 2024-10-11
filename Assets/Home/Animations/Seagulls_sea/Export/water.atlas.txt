@@ -1,0 +1,5 @@
+water.png
+size:1928,544
+filter:Linear,Linear
+Vector Smart Object
+bounds:2,2,1922,540

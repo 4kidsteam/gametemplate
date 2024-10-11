@@ -1,0 +1,7 @@
+Chú ý:
+Một mini game sẽ bao gồm 5 folders:
+1. Animations: Dùng để chứa các animation Spine or Unity Animation or Unity Particle effects.
+2. Artworks: Dùng để chứa các artworks của artist, bao gồm sprites, images.
+3. Prefabs: Dùng để chứa các profabs dùng trong mini game đó, nếu không có thì để rỗng.
+4. Scripts: Dùng để chứa các scripts C# dùng trong mini game.
+5. Sounds: Dùng để chưa files âm thanh dùng cho mini game.

@@ -1,0 +1,58 @@
+Owl.png
+size:1840,924
+filter:Linear,Linear
+Body
+bounds:2,193,508,727
+EyeBrown
+bounds:1211,446,412,166
+offsets:1,1,414,168
+Glass
+bounds:512,168,675,288
+offsets:1,1,677,290
+L Arm
+bounds:1189,177,267,425
+offsets:1,1,269,427
+rotate:90
+L Leg
+bounds:1625,395,171,244
+Mouth Bot
+bounds:1539,86,89,70
+offsets:1,1,91,72
+rotate:90
+Mouth Top
+bounds:1780,819,101,52
+offsets:1,1,103,54
+rotate:90
+R Arm
+bounds:1211,614,401,306
+offsets:1,1,403,308
+R Leg
+bounds:1103,28,138,195
+rotate:90
+Tail
+bounds:1614,641,279,164
+offsets:1,1,281,166
+rotate:90
+Top Hat
+bounds:512,458,697,462
+offsets:1,1,699,464
+W Eye
+bounds:1450,27,54,59
+offsets:1,1,56,61
+YL BrownEye
+bounds:1450,88,87,87
+offsets:1,1,89,89
+YL Eye
+bounds:1300,27,148,148
+offsets:1,1,150,150
+bg Eye
+bounds:1616,22,371,220
+offsets:1,1,373,222
+rotate:90
+element Hat
+bounds:2,2,189,461
+offsets:1,1,191,463
+rotate:90
+shadown
+bounds:465,31,636,135
+offsets:1,1,638,137

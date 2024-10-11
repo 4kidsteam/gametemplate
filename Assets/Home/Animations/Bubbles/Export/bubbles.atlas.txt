@@ -1,0 +1,5 @@
+bubbles.png
+size:48,48
+filter:Linear,Linear
+bubble
+bounds:2,2,43,43

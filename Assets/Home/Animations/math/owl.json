@@ -1,0 +1,250 @@
+{
+"skeleton": {
+	"hash": "JYcF7QH9EC8",
+	"spine": "4.1.24",
+	"x": 4,
+	"y": -384,
+	"width": 540,
+	"height": 367,
+	"images": "/Users/phucpham/Documents/phucpham/After Effects/Freelancer/Atuan/z_GameKid/1_Start_10:2023/Lobby/grap/island/math_island/images_2/",
+	"audio": "/Users/phucpham/Documents/phucpham/After Effects/Freelancer/Atuan/z_GameKid/1_Start_10:2023/Lobby/grap/island/math_island"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Ellipse 1", "parent": "root", "x": 271.17, "y": -399.88 },
+	{ "name": "Group 11", "parent": "Ellipse 1", "length": 232.99, "rotation": 178.94, "x": 4.33, "y": 35.51 },
+	{ "name": "Group 7", "parent": "Group 11", "length": 43.33, "rotation": -86.64, "x": -0.11, "y": -40.71 },
+	{ "name": "tree 3", "parent": "Group 11", "length": 49.48, "rotation": -84.92, "x": -203.84, "y": -30.64 },
+	{ "name": "tree 1", "parent": "Group 11", "length": 62.36, "rotation": -88.14, "x": 188.5, "y": -29.41 },
+	{ "name": "tree 2", "parent": "Group 11", "length": 108.37, "rotation": -86.19, "x": 154.66, "y": -72.48 },
+	{ "name": "Group 1", "parent": "Group 11", "x": -115.07, "y": -146.79 },
+	{ "name": "Group 1 copy", "parent": "Group 11", "x": -112.37, "y": -245.48 },
+	{ "name": "Layer 5", "parent": "Group 11", "x": -200.33, "y": -266.17 },
+	{ "name": "Layer 4", "parent": "Group 11", "x": -40.03, "y": -316.02 },
+	{ "name": "Layer 3", "parent": "Group 11", "x": 234.33, "y": -258.09 },
+	{ "name": "Mouth Top", "parent": "Group 11", "length": 144.2, "rotation": -100.72, "x": 64.99, "y": -94.93 },
+	{ "name": "R Arm", "parent": "Mouth Top", "length": 43.14, "rotation": -67.81, "x": 85.77, "y": -21.03 },
+	{ "name": "L Arm", "parent": "Mouth Top", "length": 54.69, "rotation": -179.17, "x": 85.44, "y": 39.94 },
+	{ "name": "Ellipse 2", "parent": "Group 11", "x": 67.41, "y": -85.36 }
+],
+"slots": [
+	{ "name": "tree 1", "bone": "tree 1", "attachment": "tree 1" },
+	{ "name": "tree 2", "bone": "tree 2", "attachment": "tree 2" },
+	{ "name": "tree 3", "bone": "tree 3", "attachment": "tree 3" },
+	{ "name": "Group 11", "bone": "Group 11", "attachment": "Group 11" },
+	{ "name": "Ellipse 1", "bone": "Ellipse 2", "attachment": "Ellipse 1" },
+	{ "name": "R Arm", "bone": "R Arm", "attachment": "R Arm" },
+	{ "name": "Mouth Top", "bone": "Mouth Top", "attachment": "Mouth Top" },
+	{ "name": "L Arm", "bone": "L Arm", "attachment": "L Arm" },
+	{ "name": "Group 1", "bone": "Group 1", "attachment": "Group 1" },
+	{ "name": "Group 1 copy", "bone": "Group 1 copy", "attachment": "Group 1 copy" },
+	{ "name": "Group 7", "bone": "Group 7", "attachment": "Group 7" },
+	{ "name": "Layer 3", "bone": "Layer 3", "attachment": "Layer 3" },
+	{ "name": "Layer 4", "bone": "Layer 4", "attachment": "Layer 4" },
+	{ "name": "Layer 5", "bone": "Layer 5", "attachment": "Layer 5" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Ellipse 1": {
+				"Ellipse 1": { "x": -2.79, "y": -1.82, "rotation": -178.94, "width": 109, "height": 28 }
+			},
+			"Group 1": {
+				"Group 1": { "x": 1.27, "y": 0.28, "rotation": -178.94, "width": 82, "height": 72 }
+			},
+			"Group 1 copy": {
+				"Group 1 copy": { "x": 1.88, "y": 1.51, "rotation": -178.94, "width": 101, "height": 81 }
+			},
+			"Group 7": {
+				"Group 7": { "x": 15.33, "y": -8.76, "rotation": -92.29, "width": 335, "height": 140 }
+			},
+			"Group 11": {
+				"Group 11": { "x": 0.22, "y": -65.88, "rotation": -178.94, "width": 505, "height": 171 }
+			},
+			"L Arm": {
+				"L Arm": { "x": 32.84, "y": 1.64, "rotation": 100.95, "width": 64, "height": 102 }
+			},
+			"Layer 3": {
+				"Layer 3": { "x": 5.81, "y": 10.64, "rotation": -178.94, "width": 50, "height": 85 }
+			},
+			"Layer 4": {
+				"Layer 4": { "x": 5.14, "y": 13.95, "rotation": -178.94, "width": 44, "height": 84 }
+			},
+			"Layer 5": {
+				"Layer 5": { "x": -0.98, "y": 12.01, "rotation": -178.94, "width": 61, "height": 94 }
+			},
+			"Mouth Top": {
+				"Mouth Top": { "x": 98.93, "y": 11.73, "rotation": -78.22, "width": 194, "height": 244 }
+			},
+			"R Arm": {
+				"R Arm": { "x": 40.87, "y": 3.24, "rotation": -10.41, "width": 96, "height": 74 }
+			},
+			"tree 1": {
+				"tree 1": { "x": 95.78, "y": 22.25, "rotation": -90.8, "width": 120, "height": 208 }
+			},
+			"tree 2": {
+				"tree 2": { "x": 132.76, "y": -29.68, "rotation": -92.75, "width": 159, "height": 276 }
+			},
+			"tree 3": {
+				"tree 3": { "x": 81.87, "y": -19.41, "rotation": -94.01, "width": 101, "height": 175 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"Group 7": {
+				"translate": [
+					{},
+					{ "time": 0.4, "x": 8.15, "y": 0.48 },
+					{ "time": 0.8, "x": 4.24, "y": -2.56 },
+					{ "time": 1.2, "x": 8.12, "y": 8.41 },
+					{ "time": 1.6, "x": 5.52, "y": 1.55 },
+					{ "time": 2 }
+				]
+			},
+			"tree 3": {
+				"rotate": [
+					{
+						"curve": [ 0.333, 0, 0.667, -10.95 ]
+					},
+					{
+						"time": 1,
+						"value": -10.95,
+						"curve": [ 1.333, -10.95, 1.667, 0 ]
+					},
+					{ "time": 2 }
+				]
+			},
+			"tree 2": {
+				"rotate": [
+					{
+						"curve": [ 0.333, 0, 0.667, -2.52 ]
+					},
+					{
+						"time": 1,
+						"value": -2.52,
+						"curve": [ 1.333, -2.52, 1.667, 0 ]
+					},
+					{ "time": 2 }
+				]
+			},
+			"tree 1": {
+				"rotate": [
+					{
+						"curve": [ 0.333, 0, 0.667, 2.11 ]
+					},
+					{
+						"time": 1,
+						"value": 2.11,
+						"curve": [ 1.333, 2.11, 1.667, 0 ]
+					},
+					{ "time": 2 }
+				]
+			},
+			"Group 1": {
+				"translate": [
+					{},
+					{ "time": 0.4, "x": -5.38, "y": -3.5 },
+					{ "time": 0.8, "x": 2.09, "y": -2.68 },
+					{ "time": 1.2, "x": -8.77, "y": -4.25 },
+					{ "time": 1.6, "x": 2.04, "y": 0.04 },
+					{ "time": 2 }
+				]
+			},
+			"Group 1 copy": {
+				"translate": [
+					{},
+					{ "time": 0.4, "x": 6.9, "y": -4.64 },
+					{ "time": 0.8, "x": -0.05, "y": 2.72 },
+					{ "time": 1.2, "x": 6.09, "y": 2.16 },
+					{ "time": 1.6, "x": -3.4, "y": -0.06 },
+					{ "time": 2 }
+				]
+			},
+			"Layer 5": {
+				"translate": [
+					{ "x": 0.41, "y": 14.31 },
+					{ "time": 1 },
+					{ "time": 2, "x": 0.41, "y": 14.31 }
+				]
+			},
+			"Layer 4": {
+				"translate": [
+					{},
+					{ "time": 1, "x": 0.41, "y": 14.31 },
+					{ "time": 2 }
+				]
+			},
+			"Layer 3": {
+				"translate": [
+					{ "x": -0.19, "y": 11.15 },
+					{ "time": 1 },
+					{ "time": 2, "x": -0.19, "y": 11.15 }
+				]
+			},
+			"L Arm": {
+				"rotate": [
+					{
+						"time": 0.1667,
+						"value": -2.23,
+						"curve": [ 0.311, -5.22, 0.456, -11.2 ]
+					},
+					{
+						"time": 0.6,
+						"value": -11.2,
+						"curve": [ 0.733, -11.2, 0.867, 4.32 ]
+					},
+					{
+						"time": 1,
+						"value": 4.32,
+						"curve": [ 1.122, 4.32, 1.244, -9.75 ]
+					},
+					{
+						"time": 1.3667,
+						"value": -9.75,
+						"curve": [ 1.522, -9.75, 1.678, -4.14 ]
+					},
+					{ "time": 1.8333 }
+				]
+			},
+			"R Arm": {
+				"rotate": [
+					{
+						"value": 1.58,
+						"curve": [ 0.133, 1.58, 0.267, 11.76 ]
+					},
+					{
+						"time": 0.4,
+						"value": 11.76,
+						"curve": [ 0.511, 11.76, 0.622, -17.07 ]
+					},
+					{
+						"time": 0.7333,
+						"value": -17.07,
+						"curve": [ 0.856, -17.07, 0.978, 1.58 ]
+					},
+					{
+						"time": 1.1,
+						"value": 1.58,
+						"curve": [ 1.233, 1.58, 1.367, 11.76 ]
+					},
+					{
+						"time": 1.5,
+						"value": 11.76,
+						"curve": [ 1.611, 11.76, 1.722, -17.07 ]
+					},
+					{
+						"time": 1.8333,
+						"value": -17.07,
+						"curve": [ 1.889, -17.07, 1.944, 1.58 ]
+					},
+					{ "time": 2, "value": 1.58 }
+				]
+			}
+		}
+	}
+}
+}

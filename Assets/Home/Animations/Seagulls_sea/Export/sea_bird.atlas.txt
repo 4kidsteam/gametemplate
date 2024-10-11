@@ -1,0 +1,25 @@
+sea_bird.png
+size:744,176
+filter:Linear,Linear
+body chim 2
+bounds:280,95,183,77
+offsets:1,1,185,79
+body chim 3
+bounds:465,106,181,66
+offsets:1,1,183,68
+chim 1
+bounds:2,2,170,276
+rotate:90
+chim 2 canh 1
+bounds:648,90,82,93
+offsets:1,1,84,95
+rotate:90
+chim 2 canh 2
+bounds:280,7,171,86
+offsets:1,1,173,88
+chim 3 canh 1
+bounds:626,29,116,59
+offsets:1,1,118,61
+chim 3 canh 2
+bounds:465,43,159,61
+offsets:1,1,161,63

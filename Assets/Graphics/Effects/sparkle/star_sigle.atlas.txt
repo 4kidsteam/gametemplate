@@ -1,0 +1,7 @@
+star_sigle.png
+size:53,55
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:2,2,49,51
+offsets:1,1,51,53

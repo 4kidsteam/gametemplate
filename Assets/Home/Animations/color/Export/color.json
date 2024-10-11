@@ -1,0 +1,358 @@
+{
+"skeleton": {
+	"hash": "lrSO+QmJPk0",
+	"spine": "4.1.24",
+	"x": -259.13,
+	"y": 17.19,
+	"width": 500,
+	"height": 300.01,
+	"images": "./Images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "blue pen", "parent": "root" },
+	{ "name": "island_color", "parent": "blue pen", "length": 220.65, "rotation": 0.35, "x": -6.81, "y": 53.12 },
+	{ "name": "Group 7", "parent": "island_color", "length": 35.44, "rotation": 91.85, "x": -1.2, "y": 25.89 },
+	{ "name": "orange pen", "parent": "island_color", "x": 164.92, "y": 18.05 },
+	{ "name": "pink pen", "parent": "island_color", "x": 184.5, "y": 101.01 },
+	{ "name": "red pen", "parent": "island_color", "x": 48.8, "y": 183.57 },
+	{ "name": "green pen", "parent": "island_color", "x": 178.4, "y": 216.82 },
+	{ "name": "blue pen2", "parent": "island_color", "x": -138.8, "y": 19.93 },
+	{ "name": "Body", "parent": "island_color", "length": 102.04, "rotation": 86.85, "x": -139.45, "y": 96.73 },
+	{ "name": "Head", "parent": "Body", "length": 83.43, "rotation": -12.76, "x": 72.16, "y": 0.2 },
+	{ "name": "Head2", "parent": "Head", "length": 52.26, "rotation": -116.22, "x": 68.43, "y": -22.78 },
+	{ "name": "Bot Lip", "parent": "Head2", "length": 37.89, "rotation": 16.62, "x": 13.67, "y": -12.18 },
+	{ "name": "Eye", "parent": "Head", "x": 56.81, "y": 11.21 },
+	{ "name": "canh", "parent": "Body", "length": 99.24, "rotation": 139.07, "x": 72.82, "y": 9.32 },
+	{ "name": "long 1", "parent": "Body", "length": 103.77, "rotation": 149.02, "x": 30.67, "y": 9.34 },
+	{ "name": "long 2", "parent": "long 1", "length": 83.08, "rotation": 4.16, "x": 4.31, "y": 10.38 },
+	{ "name": "L Leg", "parent": "Body", "length": 10.55, "rotation": -177.21, "x": -0.13, "y": 7.74 },
+	{ "name": "R Leg", "parent": "Body", "length": 10.28, "rotation": -177.21, "x": 1.89, "y": -16.63 }
+],
+"slots": [
+	{ "name": "rainbow", "bone": "blue pen", "attachment": "rainbow" },
+	{ "name": "cloud", "bone": "blue pen", "attachment": "cloud" },
+	{ "name": "island_color", "bone": "island_color", "attachment": "island_color" },
+	{ "name": "blue pen", "bone": "blue pen2", "attachment": "blue pen" },
+	{ "name": "orange pen", "bone": "orange pen", "attachment": "orange pen" },
+	{ "name": "long 1", "bone": "long 1", "attachment": "long 1" },
+	{ "name": "long 2", "bone": "long 2", "attachment": "long 2" },
+	{ "name": "Body", "bone": "Body", "attachment": "Body" },
+	{ "name": "Head", "bone": "Head", "attachment": "Head" },
+	{ "name": "Bot Lip", "bone": "Bot Lip", "attachment": "Bot Lip" },
+	{ "name": "Top Lip", "bone": "Head2", "attachment": "Top Lip" },
+	{ "name": "Eye", "bone": "Eye", "attachment": "Eye" },
+	{ "name": "canh", "bone": "canh", "attachment": "canh" },
+	{ "name": "L Leg", "bone": "L Leg", "attachment": "L Leg" },
+	{ "name": "R Leg", "bone": "R Leg", "attachment": "R Leg" },
+	{ "name": "Group 7", "bone": "Group 7", "attachment": "Group 7" },
+	{ "name": "pink pen", "bone": "pink pen", "attachment": "pink pen" },
+	{ "name": "green pen", "bone": "green pen", "attachment": "green pen" },
+	{ "name": "red pen", "bone": "red pen", "attachment": "red pen" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"blue pen": {
+				"blue pen": { "x": -36.38, "y": 4.73, "rotation": -0.35, "width": 104, "height": 51 }
+			},
+			"Body": {
+				"Body": { "x": 51.55, "y": 4.3, "rotation": -87.21, "width": 119, "height": 109 }
+			},
+			"Bot Lip": {
+				"Bot Lip": { "x": 19.06, "y": 0.65, "rotation": 25.16, "width": 43, "height": 22 }
+			},
+			"canh": {
+				"canh": { "x": 45.64, "y": 0.72, "rotation": 133.73, "width": 79, "height": 85 }
+			},
+			"cloud": {
+				"cloud": { "x": -10.14, "y": 108.69, "width": 310, "height": 139 }
+			},
+			"Eye": {
+				"Eye": { "x": 0.08, "y": 1.1, "rotation": -74.45, "width": 48, "height": 48 }
+			},
+			"green pen": {
+				"green pen": { "x": -5.4, "y": -1.82, "rotation": -0.35, "width": 88, "height": 76 }
+			},
+			"Group 7": {
+				"Group 7": { "x": 7.82, "y": -9.84, "rotation": -92.2, "width": 335, "height": 140 }
+			},
+			"Head": {
+				"Head": { "x": 34.69, "y": 8.2, "rotation": -74.45, "width": 118, "height": 121 }
+			},
+			"island_color": {
+				"island_color": { "x": -2.1, "y": 36.58, "rotation": -0.35, "width": 500, "height": 113 }
+			},
+			"L Leg": {
+				"L Leg": { "x": 6.55, "y": -0.55, "rotation": 90, "width": 26, "height": 21 }
+			},
+			"long 1": {
+				"long 1": { "x": 42.59, "y": 2.68, "rotation": 123.77, "width": 80, "height": 106 }
+			},
+			"long 2": {
+				"long 2": { "x": 39.69, "y": 1.07, "rotation": 119.61, "width": 54, "height": 83 }
+			},
+			"orange pen": {
+				"orange pen": { "x": 10.38, "y": 1.44, "rotation": -0.35, "width": 85, "height": 33 }
+			},
+			"pink pen": {
+				"pink pen": { "x": 0.82, "y": 3.41, "rotation": -0.35, "width": 70, "height": 93 }
+			},
+			"rainbow": {
+				"rainbow": { "x": 28.86, "y": 159.19, "width": 392, "height": 198 }
+			},
+			"red pen": {
+				"red pen": { "x": -5.52, "y": -3.27, "rotation": -0.35, "width": 87, "height": 73 }
+			},
+			"R Leg": {
+				"R Leg": { "x": 6.38, "y": 0.01, "rotation": 90, "width": 26, "height": 21 }
+			},
+			"Top Lip": {
+				"Top Lip": { "x": 22.01, "y": 3.3, "rotation": 41.78, "width": 45, "height": 51 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"orange pen": {
+				"translate": [
+					{
+						"curve": [ 0.133, 0, 0.267, 1.33, 0.133, 0, 0.267, 5.76 ]
+					},
+					{
+						"time": 0.4,
+						"x": 3.01,
+						"y": 5.76,
+						"curve": [ 0.589, 5.39, 0.778, 12.17, 0.589, 5.76, 0.778, -5.63 ]
+					},
+					{
+						"time": 0.9667,
+						"x": 12.17,
+						"y": -5.63,
+						"curve": [ 1.144, 12.17, 1.322, 8.45, 1.144, -5.63, 1.322, 7.05 ]
+					},
+					{
+						"time": 1.5,
+						"x": 6.35,
+						"y": 7.05,
+						"curve": [ 1.667, 4.39, 1.833, 0, 1.667, 7.05, 1.833, 0 ]
+					},
+					{ "time": 2 }
+				]
+			},
+			"pink pen": {
+				"translate": [
+					{
+						"curve": [ 0.133, 0, 0.267, -11.54, 0.133, 0, 0.267, -3.77 ]
+					},
+					{
+						"time": 0.4,
+						"x": -11.54,
+						"y": -3.77,
+						"curve": [ 0.589, -11.54, 0.778, 2.63, 0.589, -3.77, 0.778, 4.23 ]
+					},
+					{
+						"time": 0.9667,
+						"x": 2.63,
+						"y": 4.23,
+						"curve": [ 1.144, 2.63, 1.322, -6.07, 1.144, 4.23, 1.322, -3.34 ]
+					},
+					{
+						"time": 1.5,
+						"x": -6.07,
+						"y": -3.34,
+						"curve": [ 1.667, -6.07, 1.833, 0, 1.667, -3.34, 1.833, 0 ]
+					},
+					{ "time": 2 }
+				]
+			},
+			"green pen": {
+				"translate": [
+					{
+						"curve": [ 0.133, 0, 0.267, 2.14, 0.133, 0, 0.267, 17.25 ]
+					},
+					{
+						"time": 0.4,
+						"x": 2.99,
+						"y": 17.25,
+						"curve": [ 0.589, 4.18, 0.778, 2.99, 0.589, 17.25, 0.778, -2.85 ]
+					},
+					{
+						"time": 0.9667,
+						"x": 6.12,
+						"y": -2.85,
+						"curve": [ 1.144, 9.07, 1.322, 30.41, 1.144, -2.85, 1.322, -2.29 ]
+					},
+					{
+						"time": 1.5,
+						"x": 30.41,
+						"y": -1.8,
+						"curve": [ 1.667, 30.41, 1.833, 0, 1.667, -1.34, 1.833, 0 ]
+					},
+					{ "time": 2 }
+				]
+			},
+			"red pen": {
+				"translate": [
+					{
+						"curve": [ 0.133, 0, 0.267, -16.66, 0.133, 0, 0.267, 15.9 ]
+					},
+					{
+						"time": 0.4,
+						"x": -16.66,
+						"y": 15.9,
+						"curve": [ 0.589, -16.66, 0.778, -13.88, 0.589, 15.9, 0.778, 3.91 ]
+					},
+					{
+						"time": 0.9667,
+						"x": -12.45,
+						"y": 3.91,
+						"curve": [ 1.144, -11.11, 1.322, -10.49, 1.144, 3.91, 1.322, 12.76 ]
+					},
+					{
+						"time": 1.5,
+						"x": -8.35,
+						"y": 12.76,
+						"curve": [ 1.667, -6.34, 1.833, 0, 1.667, 12.76, 1.833, 0 ]
+					},
+					{ "time": 2 }
+				]
+			},
+			"blue pen2": {
+				"translate": [
+					{
+						"curve": [ 0.133, 0, 0.267, 0.16, 0.133, 0, 0.267, 6.71 ]
+					},
+					{
+						"time": 0.4,
+						"x": 1,
+						"y": 6.71,
+						"curve": [ 0.589, 2.19, 0.778, 4.46, 0.589, 6.71, 0.778, -2.09 ]
+					},
+					{
+						"time": 0.9667,
+						"x": 6.09,
+						"y": -2.09,
+						"curve": [ 1.144, 7.62, 1.322, 10.5, 1.144, -2.09, 1.322, 10.27 ]
+					},
+					{
+						"time": 1.5,
+						"x": 10.5,
+						"y": 10.27,
+						"curve": [ 1.667, 10.5, 1.833, 0, 1.667, 10.27, 1.833, 0 ]
+					},
+					{ "time": 2 }
+				]
+			},
+			"Body": {
+				"translate": [
+					{ "x": -6.79, "y": -2.83 }
+				]
+			},
+			"Head2": {
+				"rotate": [
+					{ "value": 10.43, "curve": "stepped" },
+					{
+						"time": 0.3333,
+						"value": 10.43,
+						"curve": [ 0.5, 10.43, 0.667, 10.78 ]
+					},
+					{ "time": 0.8333, "value": 10.96 }
+				]
+			},
+			"canh": {
+				"rotate": [
+					{
+						"curve": [ 0.056, 0, 0.111, -17.17 ]
+					},
+					{
+						"time": 0.1667,
+						"value": -17.17,
+						"curve": [ 0.222, -17.17, 0.278, 0.07 ]
+					},
+					{
+						"time": 0.3333,
+						"value": 0.07,
+						"curve": [ 0.389, 0.07, 0.444, -7.96 ]
+					},
+					{
+						"time": 0.5,
+						"value": -7.96,
+						"curve": [ 0.556, -7.96, 0.611, 0 ]
+					},
+					{ "time": 0.6667, "curve": "stepped" },
+					{
+						"time": 1,
+						"curve": [ 1.056, 0, 1.111, -17.17 ]
+					},
+					{
+						"time": 1.1667,
+						"value": -17.17,
+						"curve": [ 1.222, -17.17, 1.278, 0.07 ]
+					},
+					{
+						"time": 1.3333,
+						"value": 0.07,
+						"curve": [ 1.389, 0.07, 1.444, -7.96 ]
+					},
+					{
+						"time": 1.5,
+						"value": -7.96,
+						"curve": [ 1.556, -7.96, 1.611, 0 ]
+					},
+					{ "time": 1.6667 }
+				]
+			},
+			"Bot Lip": {
+				"rotate": [
+					{
+						"time": 0.3333,
+						"curve": [ 0.389, -8.89, 0.444, -26.66 ]
+					},
+					{
+						"time": 0.5,
+						"value": -26.66,
+						"curve": [ 0.589, -26.66, 0.678, 1.6 ]
+					},
+					{
+						"time": 0.7667,
+						"value": 1.6,
+						"curve": [ 0.833, 1.6, 0.9, -16.04 ]
+					},
+					{
+						"time": 0.9667,
+						"value": -16.04,
+						"curve": [ 1.022, -16.04, 1.078, -5.35 ]
+					},
+					{ "time": 1.1333 }
+				]
+			},
+			"long 1": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -5.15 },
+					{ "time": 2 }
+				]
+			},
+			"long 2": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": 4.48 },
+					{ "time": 2 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "value": 4.48 },
+					{ "time": 1, "value": 11.92 },
+					{ "time": 2, "value": 4.48 }
+				]
+			}
+		}
+	}
+}
+}

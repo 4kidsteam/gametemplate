@@ -1,0 +1,49 @@
+Alphabet.png
+size:844,520
+filter:Linear,Linear
+AlPhabet
+bounds:213,47,330,135
+offsets:1,1,335,140
+L-Leg Behind
+bounds:747,422,47,90
+offsets:1,1,49,92
+rotate:90
+L-Leg Front
+bounds:747,471,47,91
+rotate:90
+R Eye
+bounds:2,3,14,16
+offsets:1,1,16,18
+R mat 1
+bounds:18,8,10,11
+offsets:1,1,12,13
+R-Leg Behind
+bounds:164,13,31,64
+offsets:1,1,33,66
+rotate:90
+R-Leg Front
+bounds:747,391,29,66
+offsets:1,1,31,68
+rotate:90
+bg
+bounds:2,46,472,209
+offsets:1,1,474,211
+rotate:90
+body
+bounds:213,184,370,159
+egg 1
+bounds:545,2,119,132
+offsets:1,1,121,134
+egg 2
+bounds:666,8,113,126
+offsets:1,1,116,129
+island
+bounds:213,345,532,173
+offsets:1,2,534,176
+shadown
+bounds:2,21,160,23
+offsets:1,1,162,25
+volcano
+bounds:585,136,207,256
+offsets:2,1,210,258
+rotate:90

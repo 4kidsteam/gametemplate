@@ -1,0 +1,89 @@
+{
+"skeleton": {
+	"hash": "vHmFKpurahQ",
+	"spine": "4.1.24",
+	"x": -1261.6,
+	"y": -60,
+	"width": 1608.2,
+	"height": 622.55,
+	"images": "./Images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "cloud", "parent": "root", "x": -1123.6 },
+	{ "name": "cloud2", "parent": "root", "x": -503.39, "y": 155.05, "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "cloud3", "parent": "root", "x": 137.38, "y": 447.21, "scaleX": 1.3412, "scaleY": 1.3412 }
+],
+"slots": [
+	{ "name": "may", "bone": "cloud", "attachment": "may" },
+	{ "name": "may2", "bone": "cloud2", "attachment": "may" },
+	{ "name": "may3", "bone": "cloud3", "attachment": "may" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"may": {
+				"may": { "x": 9, "y": 13, "width": 294, "height": 146 }
+			},
+			"may2": {
+				"may": { "x": 9, "y": 13, "width": 294, "height": 146 }
+			},
+			"may3": {
+				"may": { "x": 9, "y": 13, "width": 294, "height": 146 }
+			}
+		}
+	}
+],
+"animations": {
+	"multi_move": {
+		"bones": {
+			"cloud": {
+				"translate": [
+					{ "x": -2098.01, "y": 294.89 },
+					{ "time": 33.3667, "x": 4323.6, "y": 265.26 }
+				]
+			},
+			"cloud2": {
+				"translate": [
+					{ "x": -496.61 },
+					{ "time": 17.3667, "x": 4503.39, "y": -22.49, "curve": "stepped" },
+					{ "time": 18.7, "x": -4496.61, "y": -21.23 },
+					{ "time": 33.3667, "x": -496.61 }
+				]
+			},
+			"cloud3": {
+				"translate": [
+					{ "x": -3537.38, "curve": "stepped" },
+					{ "time": 1.3333, "x": -3537.38 },
+					{ "time": 22.7, "x": 3062.62, "curve": "stepped" },
+					{ "time": 24.0333, "x": -3537.38 }
+				]
+			}
+		}
+	},
+	"single_move": {
+		"slots": {
+			"may": {
+				"attachment": [
+					{}
+				]
+			},
+			"may2": {
+				"attachment": [
+					{}
+				]
+			}
+		},
+		"bones": {
+			"cloud3": {
+				"translate": [
+					{ "x": -4137.38 },
+					{ "time": 33.3333, "x": 3862.62 }
+				]
+			}
+		}
+	}
+}
+}

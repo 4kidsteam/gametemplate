@@ -1,0 +1,9 @@
+rainbow_11.png
+size:352,288
+filter:Linear,Linear
+scale:0.5
+star 1
+bounds:285,217,66,63
+rotate:90
+white
+bounds:2,2,281,281

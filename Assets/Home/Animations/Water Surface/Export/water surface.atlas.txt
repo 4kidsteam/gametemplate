@@ -1,0 +1,5 @@
+water surface.png
+size:1924,532
+filter:Linear,Linear
+Water Surface
+bounds:2,2,1920,527

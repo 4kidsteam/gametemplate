@@ -1,0 +1,10 @@
+star_effect.png
+size:156,120
+filter:Linear,Linear
+scale:0.8
+Light
+bounds:2,2,113,114
+offsets:1,0,114,114
+rotate:90
+sparkle
+bounds:118,78,36,37

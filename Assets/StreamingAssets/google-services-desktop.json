@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22876039116",
+    "project_id": "smartkids-3f714",
+    "storage_bucket": "smartkids-3f714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22876039116:android:6010480c085cd8cae71f69",
+        "android_client_info": {
+          "package_name": "com.forkids.family.smartkids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOvucnSEjcdBOfNuBIQwcaZ-pampCXRlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

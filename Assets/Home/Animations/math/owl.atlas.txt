@@ -1,0 +1,53 @@
+owl.png
+size:1192,278
+filter:Linear,Linear
+pma:true
+Ellipse 1
+bounds:507,113,107,26
+offsets:1,1,109,28
+Group 1
+bounds:396,26,80,70
+offsets:1,1,82,72
+rotate:90
+Group 1 copy
+bounds:177,7,99,79
+offsets:1,1,101,81
+rotate:90
+Group 11
+bounds:2,108,503,168
+offsets:1,2,505,171
+Group 7
+bounds:507,141,330,135
+offsets:1,1,335,140
+L Arm
+bounds:332,6,62,100
+offsets:1,1,64,102
+Layer 3
+bounds:529,63,48,83
+offsets:1,1,50,85
+rotate:90
+Layer 4
+bounds:529,19,42,82
+offsets:1,1,44,84
+rotate:90
+Layer 5
+bounds:468,14,59,92
+offsets:1,1,61,94
+Mouth Top
+bounds:839,34,192,242
+offsets:1,1,194,244
+R Arm
+bounds:258,12,94,72
+offsets:1,1,96,74
+rotate:90
+tree 1
+bounds:616,21,118,205
+offsets:1,1,120,208
+rotate:90
+tree 2
+bounds:1033,2,157,274
+offsets:1,1,159,276
+tree 3
+bounds:2,7,99,173
+offsets:1,1,101,175
+rotate:90

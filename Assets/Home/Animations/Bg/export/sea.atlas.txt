@@ -1,0 +1,76 @@
+sea.png
+size:1395,1276
+filter:Linear,Linear
+pma:true
+1
+bounds:2,498,1128,325
+offsets:1,1,1130,327
+10
+bounds:2,361,1116,135
+offsets:1,1,1118,137
+2
+bounds:1192,146,1128,38
+offsets:1,1,1130,40
+rotate:90
+3
+bounds:2,199,1073,160
+offsets:1,1,1075,162
+4
+bounds:1232,174,1100,36
+offsets:1,1,1102,38
+rotate:90
+5
+bounds:1270,396,878,98
+offsets:1,1,880,100
+rotate:90
+6
+bounds:2,112,1128,85
+offsets:1,1,1130,87
+7
+bounds:1370,342,932,23
+offsets:1,1,934,25
+rotate:90
+8
+bounds:2,5,1128,39
+offsets:1,1,1130,41
+9
+bounds:1132,146,1128,58
+offsets:1,1,1130,60
+rotate:90
+clound 1
+bounds:1250,2,170,55
+offsets:1,1,172,57
+rotate:90
+clound 2
+bounds:1270,215,179,58
+offsets:1,1,181,60
+rotate:90
+clound 3
+bounds:1196,51,93,52
+offsets:1,1,95,54
+rotate:90
+clound 4
+bounds:1132,33,111,62
+offsets:1,1,113,64
+rotate:90
+clound 5
+bounds:1330,287,107,34
+offsets:1,1,109,36
+rotate:90
+clound 6
+bounds:1077,247,112,36
+offsets:1,1,114,38
+rotate:90
+clound 7
+bounds:1270,174,70,39
+offsets:1,1,72,41
+clound 8
+bounds:1330,231,54,33
+offsets:1,1,56,35
+rotate:90
+clound fade
+bounds:2,825,1128,449
+offsets:1,1,1130,451
+mountain
+bounds:2,46,1128,64
+offsets:1,1,1130,66
